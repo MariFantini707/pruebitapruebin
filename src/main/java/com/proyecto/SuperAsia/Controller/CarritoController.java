@@ -42,4 +42,6 @@ public class CarritoController {
         carritoService.delete(id);
     }
 
+    //APARTE, QUIERO REALIZAR ALGO RANDOM PARA HACER BUSQUEDA DE OTRA COSA
+
 }
